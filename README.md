@@ -48,7 +48,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝙾𝚄𝙿 :- [𝙽𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳](https://facebook.com//)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝙾𝚄𝙿 :- [ADNAN COMMANDS AND HELPING ZONE (ADNAN X RAFI ULLAH) ]([https://facebook.com//](https://facebook.com/groups/1007270279389907/))
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
