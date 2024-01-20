@@ -1,6 +1,9 @@
 <!-- Github README -->
 ![1675760832285](https://user-images.githubusercontent.com/79738922/217200618-d42f4040-d13e-4b5a-8f79-e828d6fc8f1e.png)
 
+## Link Download Termux 🤍
+👉🏻 [Click Here](https://f-droid.org/repo/com.termux_118.apk) 👈🏻
+
 <p align="center"><img src="https://img.shields.io/badge/I AM %20KASHMIR'S- FIRST PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
